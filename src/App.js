@@ -1,5 +1,6 @@
 import Header from "./pages/Header";
 import Navbar from "./pages/Navbar";
+import Footer from "./pages/Footer";
 
 import Section2 from "./pages/Section2.0";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -21,6 +22,7 @@ function App() {
       <Slider />
       <Section33/>
       <SectionCard />
+      <Footer />
     </>
   );
 }
