@@ -14,7 +14,7 @@ const styles = {
     };
   },
   menu: {
-    fontFamily: "Lato",
+    fontFamily: "Quicksand",
     fontStyle: "normal",
     fontWeight: 700,
     fontSize: 18,
