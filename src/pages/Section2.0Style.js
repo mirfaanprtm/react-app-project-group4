@@ -66,6 +66,7 @@ const styles = {
     fontSize: "25px",
     lineHeight: "25px",
     color: "white",
+    marginTop: "50px",
   },
   border: {
     border: " solid 2px white",
